@@ -40,7 +40,7 @@ $ python3 pisco.py
 ## OPCIONES:
 ```bash
 $ buscar : Buscar números de dni y fechas de nacimiento por nombres y apellidos.
-$ dni : Consultar los nombres y apellidos de una persona por medio de su dni.
+$ dni : Consultar los nombres y apellidos de una persona por medio de su dni todas las edades.
 $ ruc : Consultar una ruc.
 $ casa : Esta opción permite saber donde vive una persona (dirección de su casa)
 $ numero : Información de un número telefónico [uso: cod + num] ejemplo : 51999888777
