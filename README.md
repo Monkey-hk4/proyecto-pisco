@@ -1,7 +1,11 @@
 # PROYECTO PISCO V2.1
-FOTO PROYECTO PISCO VERSIÓN ACTUALIZADA.
-![sh](https://github.com/Monkey-hk4/proyecto-pisco/blob/main/foto_proyecto_pisco.png)
-
+<h3> FOTO PROYECTO PISCO VERSIÓN ACTUALIZADA. </h3>
+<br/>
+</br>
+<p align="center">
+<img src="https://github.com/Monkey-hk4/proyecto-pisco/blob/main/foto_proyecto_pisco.PNG" title="proyecto_pisco">
+</p>
+<br/>
 # INFORMACIÓN:
 Script programado en python que recopila información de los cuidadanos peruanos.
 Casi toda la información se obtiene mediante el número de DNI(Documento Nacional de Identidad) 8 dígitos.
