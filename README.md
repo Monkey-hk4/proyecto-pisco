@@ -54,8 +54,6 @@ Este script estará disponible para:
 # MIS REDES SOCIALES 
 - [`Instagram`](https://www.instagram.com/d4vid.0day/)
 - [`Youtube`](https://www.youtube.com/channel/UCEWGSsk-U9GjCLQk9ng1fNQ)
-- `Telegram` mhk4_0
-# DONACIONES
-- [`PayPal`](https://www.paypal.com/paypalme/davidhk4)
+- `Telegram` d4vid_0
 
 
