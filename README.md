@@ -18,24 +18,20 @@ Casi toda la información se obtiene mediante el número de DNI(Documento Nacion
 * INFORAMCIÓN DE UN NÚMERO TELEFÓNICO [CUALQUIER PAIS CON SU CÓDIGO RESPECTIVO]
 ```
 
-## Instalación: 
+<br/>
+</br>
+<p align="center">
+<img src="https://github.com/Monkey-hk4/proyecto-pisco/blob/main/foto_proyecto_pisco/foto_pisco.PNG" title="OPCIONES">
+</p>
+<br/>
 
-```bash
-# Instalar los requerimientos
-$ pip install requests
-$ pip install bs4
-$ pip install lxml
-$ pip install colorama
+<br/>
+</br>
+<p align="center">
+<img src="https://github.com/Monkey-hk4/proyecto-pisco/blob/main/foto_proyecto_pisco/foto_persona.PNG" title="FOTO PERSONA">
+</p>
+<br/>
 
-# Clone el repositorio 
-$ git clone https://github.com/Monkey-hk4/proyecto-pisco
-
-# Entre al repositorio
-$ cd proyecto-pisco
-
-# Inicar
-$ python3 pisco.py
-```
 
 ## OPCIONES:
 ```bash
@@ -47,8 +43,6 @@ $ numero : Información de un número telefónico [uso: cod + num] ejemplo : 519
 ```
 
 # SISTEMAS DISPONIBLES
-Este script estará disponible para:
-- LINUX
 - WINDOWS
 
 # MIS REDES SOCIALES 
