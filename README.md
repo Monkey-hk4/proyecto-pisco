@@ -12,10 +12,14 @@ Casi toda la información se obtiene mediante el número de DNI(Documento Nacion
 
 # MODULOS DE CONSULTA
 ```bash
-* BUSCAR NÚMERO DE DNI MEDIANTE LOS NOMBRES Y APELLIDOS DE UNA PERSONA
-* BUSCAR NOMBRES Y APELLIDOS MEDIANTE EL NÚMERO DE DNI
-* BUSCAR DONDE VIVE UNA PERSONA MEDIANTE SU NÚMERO DE DNI [RENIEC]
-* INFORAMCIÓN DE UN NÚMERO TELEFÓNICO [CUALQUIER PAIS CON SU CÓDIGO RESPECTIVO]
+ [ 1 ] CONSULTAR UN NÚMERO DE DNI.
+ [ 2 ] BUSCAR LINEAS TELEFONICAS DE UNA PERSONA POR SU DNI.
+ [ 3 ] CONSULTAR DATOS DE UN DNI +18
+ [ 4 ] BUSCAR CORREO ELECTRÓNICO Y NÚMERO DE CLIENTE MOVISTAR.
+ [ 5 ] DOXEO 1 SACAR DATOS BÁSICOS.
+ [ 6 ] BUSCAR DNI POR NOMBRES Y APELLIDOS.
+ [ 7 ] FOTO DEL ROSRO DE UNA PERSONA Y DATOS SOLO DNI AZUL.
+ [ 8 ] OBTENER LA COMPAÑIA DE UN NÚMERO TELEFÓNICO.
 ```
 
 <br/>
@@ -32,15 +36,6 @@ Casi toda la información se obtiene mediante el número de DNI(Documento Nacion
 </p>
 <br/>
 
-
-## OPCIONES:
-```bash
-$ buscar : Buscar números de dni y fechas de nacimiento por nombres y apellidos.
-$ dni : Consultar los nombres y apellidos de una persona por medio de su dni todas las edades.
-$ ruc : Consultar una ruc.
-$ casa : Esta opción permite saber donde vive una persona (dirección de su casa)
-$ numero : Información de un número telefónico [uso: cod + num] ejemplo : 51999888777
-```
 
 # SISTEMAS DISPONIBLES
 - WINDOWS
