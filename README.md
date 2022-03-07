@@ -3,7 +3,7 @@
 <br/>
 </br>
 <p align="center">
-<img src="https://github.com/Monkey-hk4/proyecto-pisco/blob/main/foto_proyecto_pisco/pisco_logo.PNG" title="proyecto_pisco">
+<img src="https://github.com/Monkey-hk4/proyecto-pisco/blob/main/foto_proyecto_pisco/pisco_logo_1.PNG" title="proyecto_pisco">
 </p>
 <br/>
 # INFORMACIÓN:
@@ -18,7 +18,7 @@ Casi toda la información se obtiene mediante el número de DNI(Documento Nacion
  [ 4 ] BUSCAR CORREO ELECTRÓNICO Y NÚMERO DE CLIENTE MOVISTAR.
  [ 5 ] DOXEO 1 SACAR DATOS BÁSICOS.
  [ 6 ] BUSCAR DNI POR NOMBRES Y APELLIDOS.
- [ 7 ] FOTO DEL ROSRO DE UNA PERSONA Y DATOS SOLO DNI AZUL.
+ [ 7 ] FOTO DEL ROSTRO DE UNA PERSONA Y DATOS SOLO DNI AZUL.
  [ 8 ] OBTENER LA COMPAÑIA DE UN NÚMERO TELEFÓNICO.
 ```
 
