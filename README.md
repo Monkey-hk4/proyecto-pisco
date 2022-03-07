@@ -3,7 +3,7 @@
 <br/>
 </br>
 <p align="center">
-<img src="https://github.com/Monkey-hk4/proyecto-pisco/blob/main/foto_proyecto_pisco.PNG" title="proyecto_pisco">
+<img src="https://github.com/Monkey-hk4/proyecto-pisco/blob/main/foto_proyecto_pisco/pisco_logo.PNG" title="proyecto_pisco">
 </p>
 <br/>
 # INFORMACIÓN:
