@@ -1,9 +1,9 @@
-# PROYECTO PISCO V2.1
+# PROYECTO PISCO V3.0
 <h3> FOTO PROYECTO PISCO VERSIÓN ACTUALIZADA. </h3>
 <br/>
 </br>
 <p align="center">
-<img src="https://github.com/Monkey-hk4/proyecto-pisco/blob/main/foto_proyecto_pisco/pisco_logo_1.PNG" title="proyecto_pisco">
+<img src="https://github.com/Monkey-hk4/proyecto-pisco/blob/main/imagenes/foto_1.PNG" title="proyecto_pisco">
 </p>
 <br/>
 # INFORMACIÓN:
@@ -15,24 +15,30 @@ Casi toda la información se obtiene mediante el número de DNI(Documento Nacion
  [ 1 ] CONSULTAR UN NÚMERO DE DNI.
  [ 2 ] BUSCAR LINEAS TELEFONICAS DE UNA PERSONA POR SU DNI.
  [ 3 ] CONSULTAR DATOS DE UN DNI +18
- [ 4 ] BUSCAR CORREO ELECTRÓNICO Y NÚMERO DE CLIENTE MOVISTAR.
- [ 5 ] DOXEO 1 SACAR DATOS BÁSICOS.
- [ 6 ] BUSCAR DNI POR NOMBRES Y APELLIDOS.
- [ 7 ] FOTO DEL ROSTRO DE UNA PERSONA Y DATOS SOLO DNI AZUL.
- [ 8 ] OBTENER LA COMPAÑIA DE UN NÚMERO TELEFÓNICO.
+ [ 4 ] BUSCAR DNI POR NOMBRES Y APELLIDOS.
+ [ 5 ] FOTO DEL ROSTRO DE UNA PERSONA Y DATOS SOLO DNI AZUL.
+ [ 6 ] OBTENER LA COMPAÑIA DE UN NÚMERO TELEFÓNICO.
+ [ 7 ] INFORMACION DE COMISARIAS DISTRITALES
 ```
 
 <br/>
 </br>
 <p align="center">
-<img src="https://github.com/Monkey-hk4/proyecto-pisco/blob/main/foto_proyecto_pisco/foto_pisco.PNG" title="OPCIONES">
+<img src="https://github.com/Monkey-hk4/proyecto-pisco/blob/main/imagenes/foto_2.PNG" title="OPCIONES">
 </p>
 <br/>
 
 <br/>
 </br>
 <p align="center">
-<img src="https://github.com/Monkey-hk4/proyecto-pisco/blob/main/foto_proyecto_pisco/foto_persona.PNG" title="FOTO PERSONA">
+<img src="https://github.com/Monkey-hk4/proyecto-pisco/blob/main/imagenes/foto_3.PNG" title="FOTO PERSONA">
+</p>
+<br/>
+
+<br/>
+</br>
+<p align="center">
+<img src="https://github.com/Monkey-hk4/proyecto-pisco/blob/main/imagenes/foto_4.PNG" title="FOTO PERSONA">
 </p>
 <br/>
 
@@ -43,6 +49,5 @@ Casi toda la información se obtiene mediante el número de DNI(Documento Nacion
 # MIS REDES SOCIALES 
 - [`Instagram`](https://www.instagram.com/d4vid.0day/)
 - [`Youtube`](https://www.youtube.com/channel/UCEWGSsk-U9GjCLQk9ng1fNQ)
-- `Telegram` d4vid_0
 
 
